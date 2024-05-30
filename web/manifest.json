@@ -1,0 +1,23 @@
+{
+    "name": "科普网",
+    "short_name": "popweb",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "popweb",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/icons8-book-24.png",
+            "sizes": "24x24",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/icons8-book-96.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        }
+    ]
+}
